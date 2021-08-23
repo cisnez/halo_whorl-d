@@ -10,6 +10,12 @@
 	chmod +x bashhalo
 	./bashhalo
 
+### C++ - general-purpose programming language 
+#### For more information about C++ see [The Standard](https://isocpp.org/std/the-standard) || [cplusplus.com](http://cplusplus.com/)
+	g++ c++halo.cpp	# Compiles the code to an executable named a.out
+	./a.out		# Executes the compiled code
+	rm ./a.out	# Removes the compiled code
+
 ### Forth - procedural, stack-oriented programming language
 #### WIP: For now this one just displays Halo Whorl'd to the terminal instead of writing to file and reading from file. For list of compilers visit [Forth.org Compilers Page](http://www.forth.org/compilers.html). For more information see [Forth Standard](https://forth-standard.org/) || [FORTH, Inc.](https://www.forth.com/starting-forth/) 
 	sudo apt-get install pforth
