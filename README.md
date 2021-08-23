@@ -21,7 +21,7 @@
 
 ### Perl - high-level, general-purpose, interpreted, dynamic programming language
 #### For more information about Perl see [Perldoc Browser](https://perldoc.perl.org/).
-	perl ./perlhalo 
+	perl ./perlhalo.pl 
 
 ### Python - interpreted, high-level, general-purpose programming language
 #### For more information about Python see [Python Documentation](https://www.python.org/doc/).
