@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "halo whorl'd" > ./foo
+cat foo
+rm foo 
+
