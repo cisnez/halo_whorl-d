@@ -5,25 +5,25 @@
  
 #### From GUI desktop pressing CTRL+Alt+T will open a new Terminal window. Also found by clicking on the Raspberry icon, Accessories, and Terminal. The default terminal shell is /bin/bash.
 
-### bash 
+### Bash - Bourne Again SHell command processor language 
 #### For more information about Bash see [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html).
 	chmod +x bashhalo
 	./bashhalo
 
-### forth
-#### WIP: For now this one just displays Halo Whorl'd to the terminal instead of writing to file and reading from file. 
+### Forth - procedural, stack-oriented programming language
+#### WIP: For now this one just displays Halo Whorl'd to the terminal instead of writing to file and reading from file. For list of compilers visit [Forth.org Compilers Page](http://www.forth.org/compilers.html). For more information see [Forth Standard](https://forth-standard.org/) || [FORTH, Inc.](https://www.forth.com/starting-forth/) 
 	sudo apt-get install pforth
 	pforth forthhalo.fth
 
-### node.js
+### node.js - open-source, cross-platform, back-end JavaScript runtime language 
 #### For more information about node.js see [node.js DOCS](https://nodejs.org/en/docs/).
 	node nodehalo.js 
 
-### Perl
+### Perl - high-level, general-purpose, interpreted, dynamic programming language
 #### For more information about Perl see [Perldoc Browser](https://perldoc.perl.org/).
 	perl ./perlhalo 
 
-### python
+### Python - interpreted, high-level, general-purpose programming language
 #### For more information about Python see [Python Documentation](https://www.python.org/doc/).
 	python ./pythonhalo.py
 
