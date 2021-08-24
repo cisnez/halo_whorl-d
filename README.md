@@ -21,6 +21,12 @@
 	sudo apt-get install pforth
 	pforth forthhalo.fth
 
+###Nim -  imperative, general-purpose, multi-paradigm, statically typed, systems, compiled programming language
+#### WIP: Why doesn't the second output work? [nim Documentation](https://nim-lang.org/documentation.html)
+	sudo apt-get install nim nim-doc	# Install the nim compiler
+	nim c -r --verbosity:0 nimhalo.nim	# Compile the code to an executable and run
+	rm nimhalo				# Delete the compiled executable
+
 ### node.js - open-source, cross-platform, back-end JavaScript runtime language 
 #### For more information about node.js see [node.js DOCS](https://nodejs.org/en/docs/).
 	node nodehalo.js 
