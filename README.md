@@ -21,7 +21,7 @@
 	sudo apt-get install pforth
 	pforth forthhalo.fth
 
-###Nim -  imperative, general-purpose, multi-paradigm, statically typed, systems, compiled programming language
+### Nim -  imperative, general-purpose, multi-paradigm, statically typed, systems, compiled programming language
 #### WIP: Why doesn't the second output work? [nim Documentation](https://nim-lang.org/documentation.html)
 	sudo apt-get install nim nim-doc	# Install the nim compiler
 	nim c -r --verbosity:0 nimhalo.nim	# Compile the code to an executable and run
