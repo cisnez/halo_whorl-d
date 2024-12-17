@@ -8,7 +8,7 @@ foofile = open(foo,"a")
 foofile.write("Halo Whorl'd\n") #Use \n to insert a new line
 foofile.close()
 barfile = open(foo,"r+")
-print barfile.read()
+print (barfile.read())
 barfile.close()
 os.remove(foo)
 #
